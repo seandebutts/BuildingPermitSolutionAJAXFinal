@@ -1,0 +1,4 @@
+C:\Users\Owner\Desktop\Coding\three-tier application practice\BuildingPermitSolutionAJAX Final\BuildingPermitSolutionAJAX\BuildingPermit\bin\Debug\BuildingPermit.dll
+C:\Users\Owner\Desktop\Coding\three-tier application practice\BuildingPermitSolutionAJAX Final\BuildingPermitSolutionAJAX\BuildingPermit\bin\Debug\BuildingPermit.pdb
+C:\Users\Owner\Desktop\Coding\three-tier application practice\BuildingPermitSolutionAJAX Final\BuildingPermitSolutionAJAX\BuildingPermit\obj\Debug\BuildingPermit.dll
+C:\Users\Owner\Desktop\Coding\three-tier application practice\BuildingPermitSolutionAJAX Final\BuildingPermitSolutionAJAX\BuildingPermit\obj\Debug\BuildingPermit.pdb
